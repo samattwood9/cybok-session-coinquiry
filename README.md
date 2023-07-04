@@ -1,5 +1,7 @@
 # cybok-session-coinquiry[^1]
 
+Session plans and learning materials for a mapping workshop, designed to help raise cyber-enabled practitioner awareness and adoption of the Cyber Security Body of Knowledge ([CyBOK](https://www.cybok.org/)).
+
 ## Required materials
 
 - Room with a large screen.

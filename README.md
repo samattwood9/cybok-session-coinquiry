@@ -4,6 +4,9 @@
 
 ## Intended learning outcomes
 
+-	Recognize/describe the different areas of the Cyber Security Body of Knowledge (CyBOK).
+-	Relate your job role to different knowledge areas in the CyBOK.
+
 ## Suggested Session Plan
 
 | Action | Materials | Duriation |

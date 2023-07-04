@@ -2,6 +2,14 @@
 
 ## Required materials
 
+- Room with a large screen.
+- Slides for instructor led presentations (see TODO).
+- Handouts with the CyBOK tabular reference.
+- Large (A3/A2) paper / whiteboards.
+- Pens.
+- Post-it notes.
+- (Optional) Handouts with the CyBOK knowledge areas and groups as wordclouds.
+
 ## Intended learning outcomes
 
 -	Recognize/describe the different areas of the Cyber Security Body of Knowledge (CyBOK).

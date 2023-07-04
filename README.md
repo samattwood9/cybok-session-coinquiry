@@ -4,14 +4,14 @@
 
 - Room with a large screen.
 - Slides for instructor led presentations.
-  - See .
+  - See [example_slides.pdf](https://github.com/samattwood9/cybok-session-coinquiry/blob/main/example_slides.pdf).
 - Handouts with the CyBOK tabular reference
-  - See https://www.cybok.org/media/downloads/CyBOK_Tabular_Representation_1_1_July_2021.pdf.
+  - See [tabular reference](https://www.cybok.org/media/downloads/CyBOK_Tabular_Representation_1_1_July_2021.pdf).
 - Large (A3/A2) paper / whiteboards.
 - Pens.
 - Post-it notes.
 - (Optional) Handouts with the CyBOK knowledge areas and groups as wordclouds.
-  - See https://github.com/samattwood9/word-cloud-cybok.
+  - See [wordclouds](https://github.com/samattwood9/word-cloud-cybok).
 
 ## Intended learning outcomes
 

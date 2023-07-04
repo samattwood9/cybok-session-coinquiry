@@ -8,7 +8,7 @@
 - Large (A3/A2) paper / whiteboards.
 - Pens.
 - Post-it notes.
-- (Optional) Handouts with the CyBOK knowledge areas and groups as wordclouds.
+- (Optional) Handouts with the CyBOK knowledge areas and groups as wordclouds (see https://github.com/samattwood9/word-cloud-cybok).
 
 ## Intended learning outcomes
 

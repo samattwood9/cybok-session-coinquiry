@@ -3,12 +3,15 @@
 ## Required materials
 
 - Room with a large screen.
-- Slides for instructor led presentations (see TODO).
-- Handouts with the CyBOK tabular reference.
+- Slides for instructor led presentations.
+  - See .
+- Handouts with the CyBOK tabular reference
+  - See https://www.cybok.org/media/downloads/CyBOK_Tabular_Representation_1_1_July_2021.pdf.
 - Large (A3/A2) paper / whiteboards.
 - Pens.
 - Post-it notes.
-- (Optional) Handouts with the CyBOK knowledge areas and groups as wordclouds (see https://github.com/samattwood9/word-cloud-cybok).
+- (Optional) Handouts with the CyBOK knowledge areas and groups as wordclouds.
+  - See https://github.com/samattwood9/word-cloud-cybok.
 
 ## Intended learning outcomes
 
